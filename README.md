@@ -104,8 +104,13 @@ https://github.com/Takarigua/shvirtd-example-python.git
 ---
 
 ## Ответ
-Скрипт: https://github.com/Takarigua/shvirtd-example-python/blob/0eafc7e18eca3825c7255657c0b230a8c9277361/deploy.sh
+
 ---
+
+Скрипт: https://github.com/Takarigua/shvirtd-example-python/blob/0eafc7e18eca3825c7255657c0b230a8c9277361/deploy.sh
+
+---
+
 Форк: https://github.com/Takarigua/shvirtd-example-python.git
 
 ---
