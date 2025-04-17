@@ -105,15 +105,16 @@ https://github.com/Takarigua/shvirtd-example-python.git
 
 ## Ответ
 Скрипт: https://github.com/Takarigua/shvirtd-example-python/blob/0eafc7e18eca3825c7255657c0b230a8c9277361/deploy.sh
+---
 Форк: https://github.com/Takarigua/shvirtd-example-python.git
 
 ---
 
-![Task2](https://github.com/Takarigua/05-virt-04-docker-in-practice/blob/78839ee9faf75476c7b230a2674fe1d146ebbb9f/screen/5.png)
+![Task2](https://github.com/Takarigua/05-virt-04-docker-in-practice/blob/3338c741e27f3e18450e162d8993c4e4b8170c0f/screen/5.png)
 
 ---
 
-![Task2](https://github.com/Takarigua/05-virt-04-docker-in-practice/blob/78839ee9faf75476c7b230a2674fe1d146ebbb9f/screen/6.png)
+![Task2](https://github.com/Takarigua/05-virt-04-docker-in-practice/blob/3338c741e27f3e18450e162d8993c4e4b8170c0f/screen/6.png)
 
 ---
 
