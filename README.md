@@ -38,6 +38,7 @@ See 'snap info docker' for additional versions.
 
 ---
 
+## Ответ
 https://github.com/Takarigua/shvirtd-example-python.git
 
 ---
@@ -56,6 +57,7 @@ https://github.com/Takarigua/shvirtd-example-python.git
 
 ---
 
+## Ответ
 ![scan](https://github.com/Takarigua/05-virt-04-docker-in-practice/blob/f4085544fcea0bd084be3a96984bc535782f0e60/screen/1.png)
 
 ---
@@ -78,6 +80,7 @@ https://github.com/Takarigua/shvirtd-example-python.git
 
 ---
 
+## Ответ
 ![Task2](https://github.com/Takarigua/05-virt-04-docker-in-practice/blob/78839ee9faf75476c7b230a2674fe1d146ebbb9f/screen/2.png)
 
 ---
@@ -100,6 +103,7 @@ https://github.com/Takarigua/shvirtd-example-python.git
 
 ---
 
+## Ответ
 Скрипт: https://github.com/Takarigua/shvirtd-example-python/blob/0eafc7e18eca3825c7255657c0b230a8c9277361/deploy.sh
 Форк: https://github.com/Takarigua/shvirtd-example-python.git
 
