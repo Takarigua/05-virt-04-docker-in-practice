@@ -85,11 +85,11 @@ https://github.com/Takarigua/shvirtd-example-python.git
 
 ---
 
-![Task2](https://github.com/Takarigua/05-virt-04-docker-in-practice/blob/78839ee9faf75476c7b230a2674fe1d146ebbb9f/screen/3.png)
+![Task3](https://github.com/Takarigua/05-virt-04-docker-in-practice/blob/78839ee9faf75476c7b230a2674fe1d146ebbb9f/screen/3.png)
 
 ---
 
-![Task2](https://github.com/Takarigua/05-virt-04-docker-in-practice/blob/78839ee9faf75476c7b230a2674fe1d146ebbb9f/screen/4.png)
+![Task4](https://github.com/Takarigua/05-virt-04-docker-in-practice/blob/78839ee9faf75476c7b230a2674fe1d146ebbb9f/screen/4.png)
 
 ---
 
@@ -115,11 +115,11 @@ https://github.com/Takarigua/shvirtd-example-python.git
 
 ---
 
-![Task2](https://github.com/Takarigua/05-virt-04-docker-in-practice/blob/3338c741e27f3e18450e162d8993c4e4b8170c0f/screen/5.png)
+![Task5](https://github.com/Takarigua/05-virt-04-docker-in-practice/blob/3338c741e27f3e18450e162d8993c4e4b8170c0f/screen/5.png)
 
 ---
 
-![Task2](https://github.com/Takarigua/05-virt-04-docker-in-practice/blob/3338c741e27f3e18450e162d8993c4e4b8170c0f/screen/6.png)
+![Task6](https://github.com/Takarigua/05-virt-04-docker-in-practice/blob/3338c741e27f3e18450e162d8993c4e4b8170c0f/screen/6.png)
 
 ---
 
@@ -133,9 +133,33 @@ https://github.com/Takarigua/shvirtd-example-python.git
 Скачайте docker образ ```hashicorp/terraform:latest``` и скопируйте бинарный файл ```/bin/terraform``` на свою локальную машину, используя dive и docker save.
 Предоставьте скриншоты  действий .
 
+---
+
+## Ответ
+
+---
+
+![Task7](https://github.com/Takarigua/05-virt-04-docker-in-practice/blob/033b522c906e2602087e6dd513b6ed6df1e5eace/screen/7.png)
+
+---
+
+![Task8](https://github.com/Takarigua/05-virt-04-docker-in-practice/blob/033b522c906e2602087e6dd513b6ed6df1e5eace/screen/8.png)
+
+---
+
+![Task8](https://github.com/Takarigua/05-virt-04-docker-in-practice/blob/033b522c906e2602087e6dd513b6ed6df1e5eace/screen/9.png)
+
+---
+
 ## Задача 6.1
 Добейтесь аналогичного результата, используя docker cp.  
 Предоставьте скриншоты  действий .
+
+---
+
+![Task8](https://github.com/Takarigua/05-virt-04-docker-in-practice/blob/033b522c906e2602087e6dd513b6ed6df1e5eace/screen/10.png)
+
+---
 
 ## Задача 6.2 (**)
 Предложите способ извлечь файл из контейнера, используя только команду docker build и любой Dockerfile.  
