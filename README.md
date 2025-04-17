@@ -119,6 +119,7 @@ https://github.com/Takarigua/shvirtd-example-python.git
 
 ---
 
+Тут должен был быть скрин с вкладки http, и по началу у меня выдавало "OK" Япония, Казахстан и Гонк-Конг, но пару раз попрыгав по вкладам ушли в ошибку "Слишком много запросов", поэтому приложил скрин с первой страницы:
 ![Task6](https://github.com/Takarigua/05-virt-04-docker-in-practice/blob/3338c741e27f3e18450e162d8993c4e4b8170c0f/screen/6.png)
 
 ---
