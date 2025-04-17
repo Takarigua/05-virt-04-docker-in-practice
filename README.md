@@ -76,6 +76,20 @@ https://github.com/Takarigua/shvirtd-example-python.git
 
 6. Остановите проект. В качестве ответа приложите скриншот sql-запроса.
 
+---
+
+![Task2](https://github.com/Takarigua/05-virt-04-docker-in-practice/blob/78839ee9faf75476c7b230a2674fe1d146ebbb9f/screen/2.png)
+
+---
+
+![Task2](https://github.com/Takarigua/05-virt-04-docker-in-practice/blob/78839ee9faf75476c7b230a2674fe1d146ebbb9f/screen/3.png)
+
+---
+
+![Task2](https://github.com/Takarigua/05-virt-04-docker-in-practice/blob/78839ee9faf75476c7b230a2674fe1d146ebbb9f/screen/4.png)
+
+---
+
 ## Задача 4
 1. Запустите в Yandex Cloud ВМ (вам хватит 2 Гб Ram).
 2. Подключитесь к Вм по ssh и установите docker.
@@ -83,6 +97,21 @@ https://github.com/Takarigua/shvirtd-example-python.git
 4. Зайдите на сайт проверки http подключений, например(или аналогичный): ```https://check-host.net/check-http``` и запустите проверку вашего сервиса ```http://<внешний_IP-адрес_вашей_ВМ>:8090```. Таким образом трафик будет направлен в ingress-proxy. ПРИМЕЧАНИЕ:  приложение main.py( в отличие от not_tested_main.py) весьма вероятно упадет под нагрузкой, но успеет обработать часть запросов - этого достаточно. Обновленная версия (main.py) не прошла достаточного тестирования временем, но должна справиться с нагрузкой.
 5. (Необязательная часть) Дополнительно настройте remote ssh context к вашему серверу. Отобразите список контекстов и результат удаленного выполнения ```docker ps -a```
 6. В качестве ответа повторите  sql-запрос и приложите скриншот с данного сервера, bash-скрипт и ссылку на fork-репозиторий.
+
+---
+
+Скрипт: https://github.com/Takarigua/shvirtd-example-python/blob/0eafc7e18eca3825c7255657c0b230a8c9277361/deploy.sh
+Форк: https://github.com/Takarigua/shvirtd-example-python.git
+
+---
+
+![Task2](https://github.com/Takarigua/05-virt-04-docker-in-practice/blob/78839ee9faf75476c7b230a2674fe1d146ebbb9f/screen/5.png)
+
+---
+
+![Task2](https://github.com/Takarigua/05-virt-04-docker-in-practice/blob/78839ee9faf75476c7b230a2674fe1d146ebbb9f/screen/6.png)
+
+---
 
 ## Задача 5 (*)
 1. Напишите и задеплойте на вашу облачную ВМ bash скрипт, который произведет резервное копирование БД mysql в директорию "/opt/backup" с помощью запуска в сети "backend" контейнера из образа ```schnitzler/mysqldump``` при помощи ```docker run ...``` команды. Подсказка: "документация образа."
